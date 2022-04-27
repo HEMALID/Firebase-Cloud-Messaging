@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Clould Messaging</string>
+    <string name="default_notification_channel_id">Hello From Firebase Clould Messaging</string>
+    <string name="msg_token_fmt">Hello From Firebase Clould Messaging</string>
+    <string name="firebasetitle">FirebaseTitle</string>
+    <string name="token">token</string>
+
+
+</resources>

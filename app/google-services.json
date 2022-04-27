@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669058077720",
+    "project_id": "fir-clould-messaging-77b41",
+    "storage_bucket": "fir-clould-messaging-77b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669058077720:android:90197e3bc0ce5a4d091f6d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseclouldmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669058077720-g154siaitla96ngkmvolld23hecrva93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxQeFTc1tWPfvlRMAIAyMD8GDlUpQDvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669058077720-g154siaitla96ngkmvolld23hecrva93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
